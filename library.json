@@ -1,4 +1,5 @@
 {
+    "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
     "name": "SmoothPin",
     "version": "0.1.0",
     "description": "A simple library that lets you add non-blocking smooth switching for your pins. Can be used for LEDs, motors, etc.",
@@ -30,5 +31,7 @@
         }
     ],
     "license": "MIT",
-    "frameworks": "arduino"
+    "frameworks": [
+        "arduino"
+    ]
 }
