@@ -1,0 +1,34 @@
+{
+    "name": "SmoothPin",
+    "version": "0.1.0",
+    "description": "A simple library that lets you add non-blocking smooth switching for your pins. Can be used for LEDs, motors, etc.",
+    "keywords": [
+        "smooth",
+        "pin",
+        "led",
+        "control",
+        "motor",
+        "servo",
+        "transitions",
+        "fade",
+        "brightness",
+        "arduino",
+        "non-blocking",
+        "smoothpin"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kytpbs/SmoothPin"
+    },
+    "authors":
+    [
+        {
+            "name": "kytpbs",
+            "email": "kytpbs@gmail.com",
+            "contact": "discord: kytpbs",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino"
+}
